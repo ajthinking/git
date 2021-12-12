@@ -1,0 +1,8 @@
+tests/.debug/*
+tests/.output/*
+tests/.preview/*
+notes
+sketches/
+.vscode/
+vendor/
+.phpunit.result.cache
