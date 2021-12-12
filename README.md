@@ -25,8 +25,8 @@ Git::commit('Made some changes');
 ```
 
 ### Todo
-- [ ] `git --version`
-- [ ] `git clone remote path`
+- [x] `git --version`
+- [x] `git clone remote path`
 - [ ] `git add .`
 - [ ] `git commit -m 'Some message'`
 
