@@ -30,6 +30,11 @@ Git::commit('Made some changes');
 - [ ] `git add .`
 - [ ] `git commit -m 'Some message'`
 
+### Not supported
+- Windows
+- Bare repos
+- Reference repos
+
 ### Testing
 
 ```bash
