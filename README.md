@@ -13,13 +13,13 @@ composer require ajthinking/git
 ## Usage
 
 ```php
-Git::cloneFromGitHub('user/repo', '~/Code/local-install-path');
-Git::checkout('feature/your-branch-name')
+Git::clone('user/repo', '~/local-path');
+Git::checkout('feature/branch-name')
 
 // Make changes ...
 
 Git::add();
-Git::commit('Made some changes');
+Git::commit('Some changes');
 
 // Make PR ...
 ```
